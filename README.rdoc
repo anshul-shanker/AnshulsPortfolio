@@ -1,3 +1,3 @@
 == My Portfolio
 
-* A work in process. Built on Ruby on rails.
+* A work in progress. Built on Ruby on rails.
