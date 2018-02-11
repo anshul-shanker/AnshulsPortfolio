@@ -17,7 +17,7 @@ gem 'friendly_id', '~> 5.1.0'
 
 gem 'devise', '~> 4.2.0'
 
-gem 'anshul_view_tool', git: 'https://github.com/Ashanker90/anshul_view_tool'
+gem 'anshul_view_tool', '~> 0.2.0'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 # Use jquery as the JavaScript library
