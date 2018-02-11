@@ -13,15 +13,21 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+
+#gems added by me
 gem 'friendly_id', '~> 5.1.0'
 
 gem 'devise', '~> 4.2.0'
 
 gem 'anshul_view_tool', '~> 0.2.0'
 
-gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'bootstrap', '~> 4.0.0'
 
 gem 'petergate'
+
+gem 'kaminari', :git => 'https://github.com/kaminari/kaminari'
+
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
