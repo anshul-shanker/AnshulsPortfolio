@@ -30,6 +30,7 @@ module AnshulsPortfolio
     # config.i18n.default_locale = :de
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
+    config.secret_key_base = ENV["SECRET_KEY_BASE"]
     config.active_record.raise_in_transactional_callbacks = true
   end
 end
